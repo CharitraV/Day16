@@ -1,0 +1,11 @@
+body {
+    background-image: url("https://img.freepik.com/free-vector/indian-flag-theme-independence-day-15th-august-celebration-background_1055-18094.jpg");
+    background-size: 1400px;
+    background-repeat: no-repeat;
+}
+#counter {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    margin-top: 300px;
+}
